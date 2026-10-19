@@ -53,6 +53,8 @@ deadface{sh3ll_h1st0ry_t3lls_4ll}
 
 ## Git Good
 
+### Objective
+
 Use the tool in deephax's home directory to get the next user's flag
 
 ### The Solve
