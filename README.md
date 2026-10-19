@@ -45,6 +45,6 @@ Forensics
 
 OSINT
 
-- Chatty Cathy
+- Chatty Cathy and Exposing Myself Through Bad OPSEC
 - Car Crash
 - Death
