@@ -22,6 +22,11 @@ Hostbusters (done all in one file)
 - Git Good
 - On Schedule
 
+OSINT
+
+- Chatty Cathy and Exposing Myself Through Bad OPSEC
+- Car Crash
+- Death
 ### To Do:
 
 De Monne Breach
@@ -42,9 +47,3 @@ Forensics
 
 - Hooked
 - Art Heist: The Forgery
-
-OSINT
-
-- Chatty Cathy and Exposing Myself Through Bad OPSEC
-- Car Crash
-- Death
