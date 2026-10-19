@@ -84,10 +84,16 @@ SERVICE_PW = "Gh0stInTh3Sh3ll_404"
 
 ```
 
-I switched to user gh0st404 with this password and read the flag in his home directory. Thus, the flag is:
+I switched to user gh0st404 with this password and read the flag in his home directory. 
 
 ```
 cd ~
+cat flag.txt
+```
+
+Thus, the flag is:
+
+```
 deadface{g1t_l0g_sp1lls_s3cr3ts}
 ```
 
