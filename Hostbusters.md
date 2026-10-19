@@ -1,6 +1,6 @@
 # Hostbusters
 
-Note, I did not solve all of these, below are my solves for the first four challenges. I also figured out Old Habits, but that was after the competition ended and thus I will not include it in this writeup.
+Note, I did not solve the entire series, below are my solves for the first four challenges. I also figured out Old Habits, but that was after the competition ended and thus I will not include it in this writeup.
 
 ## Foothold on Charon
 
