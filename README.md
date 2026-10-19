@@ -1,5 +1,7 @@
 # DEADFACE CTF 2026 Writeups
 
+Enjoy my writeups of some of the DEADFACE CTF 2026 challenges. I wish I had the time to fully dedicate myself to participating in this event, because it was one of the coolest and most involved CTFs I have ever competed in! While I wasn't able to spend as much time on the CTF as I would have liked, here's everything I did manage to solve with the time I had.
+
 ### Included:
 
 Cryptography
@@ -15,7 +17,7 @@ Steganography
 - File Dump 01
 - Hidden Loot Box
 
-Hostbusters (done all in one file)
+Hostbusters (all in one file)
 
 - Foothold on Charon
 - Looking Back
@@ -27,14 +29,15 @@ OSINT
 - Chatty Cathy and Exposing Myself Through Bad OPSEC
 - Car Crash
 - Death
-### To Do:
 
-De Monne Breach
+De Monne Breach (all in one file)
 
 - Name to a Face
 - Who Goes There?
 - Uninvited Guest
 - The Workstation in the Middle
+
+### To Do
 
 Traffic Analysis
 
