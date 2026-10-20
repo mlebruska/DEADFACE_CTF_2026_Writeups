@@ -37,8 +37,6 @@ De Monne Breach (all in one file)
 - Uninvited Guest
 - The Workstation in the Middle
 
-### To Do
-
 Traffic Analysis
 
 - Data Go Brrrrr
